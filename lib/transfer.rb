@@ -25,3 +25,6 @@ class Transfer
     # @receiver.status = "complete"
   end
 end
+end
+
+end
